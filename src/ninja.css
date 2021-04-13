@@ -2,3 +2,17 @@ body {
 	padding: 1em;
 	font-family: Helvetica, sans-serif;
 }
+
+div.wrapper {
+	width: 600px;
+	margin: 0 auto;
+}
+
+header h1 {
+	text-align: center;
+}
+
+div.calculation {
+	margin: 1em;
+	padding: 1em;
+}
