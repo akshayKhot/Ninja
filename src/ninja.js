@@ -1,3 +1,3 @@
 export class Ninja {
-  message = 'Hello World!';
+  message = 'Welcome to JavaScript Ninja...';
 }

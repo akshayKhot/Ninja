@@ -21,7 +21,7 @@ module.exports = function(env, { analyze }) {
     mode: production ? 'production' : 'development',
     devtool: production ? undefined : 'eval-cheap-source-map',
     entry: {
-      entry: './src/main.js'
+      entry: './main.js'
     },
     output: {
       path: path.resolve(__dirname, 'dist'),

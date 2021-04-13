@@ -1,5 +1,5 @@
 import Aurelia from 'aurelia';
-import { Ninja } from './ninja';
+import { Ninja } from './src/ninja';
 
 Aurelia
   .app(Ninja)
